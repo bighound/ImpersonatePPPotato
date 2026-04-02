@@ -17,6 +17,11 @@ You can compile the .sln project as you usually do, but i strongly recommend you
 ```
 cl.exe /O1 /GL /Gy /GF /MD /DNDEBUG /std:c++17 /GR- /EHsc- /W4 ImpersonatePPPotato.cpp ImpersonatePPPotatoContext.cpp ImpersonatePPPotatoUnmarshalTrigger.cpp /link /LTCG /OPT:REF /OPT:ICF /DEBUG:NONE ole32.lib oleaut32.lib advapi32.lib kernel32.lib rpcrt4.lib shlwapi.lib
 ```
+## Notes
+When you compile the .sln using Visual Studio, you will need to modify line 471 by adding the "L":
+```
+ L"D:(A;OICI;GA;;;WD)"
+```
 # PoC
 ``` 
   ImpersonatePPPotato - Token Stealing Exploit
