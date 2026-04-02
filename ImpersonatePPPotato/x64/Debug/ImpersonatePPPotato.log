@@ -1,0 +1,8 @@
+﻿  ImpersonatePPPotatoContext.cpp
+C:\Users\Enrique\Desktop\Proyectos\SCS_2026\projectpotato\Potato\ImpersonatePPPotatoContext.cpp(344,53): warning C4245: 'argumento': conversión de 'int' en 'DWORD'; no coinciden signed/unsigned
+C:\Users\Enrique\Desktop\Proyectos\SCS_2026\projectpotato\Potato\ImpersonatePPPotatoContext.cpp(426,32): warning C4267: '+=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Enrique\Desktop\Proyectos\SCS_2026\projectpotato\Potato\ImpersonatePPPotatoContext.cpp(392,21): warning C4100: 'p1': parámetro sin referencia
+C:\Users\Enrique\Desktop\Proyectos\SCS_2026\projectpotato\Potato\ImpersonatePPPotatoContext.cpp(392,11): warning C4100: 'p0': parámetro sin referencia
+C:\Users\Enrique\Desktop\Proyectos\SCS_2026\projectpotato\Potato\ImpersonatePPPotatoContext.cpp(848,69): warning C4244: '=': conversión de 'DWORD_PTR' a 'DWORD'; posible pérdida de datos
+  LINK : no se encontró C:\Users\Enrique\Desktop\Proyectos\SCS_2026\projectpotato\Potato\x64\Debug\ImpersonatePPPotato.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  ImpersonatePPPotato.vcxproj -> C:\Users\Enrique\Desktop\Proyectos\SCS_2026\projectpotato\Potato\x64\Debug\ImpersonatePPPotato.exe
