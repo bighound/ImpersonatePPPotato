@@ -55,3 +55,6 @@ Original repository:
 All credit for the original idea and implementation belongs to its author.
 # Acknowledgments
 Thanks to BeichenDream for the original C# project that served as a basis and inspiration.
+
+# Contribuitors
+Thanks to @ivancabrera02 for develop a DLL version
